@@ -9,7 +9,7 @@ app = Flask(__name__)
 #  CONFIGURATION
 # ────────────────────────────────────────────────
 
-TITLE_ID = "1641C3"
+TITLE_ID = "1C5B0E"
 PLAYFAB_BASE = f"https://{TITLE_ID}.playfabapi.com"
 
 # Replace with your real webhook if you want logging
@@ -3834,29 +3834,29 @@ def titledatathingyyk():
         	"data": {
         		"Data": {
         			"Versions": "{\"MOTD_1.1.38\":8,\"MOTD_1.1.39\":7,\"BundleLargeSign_1.1.40\":1,\"BundleBoardSign_1.1.40\":0,\"BundleKioskSign_1.1.40\":1,\"BundleKioskButton_1.1.40\":0,\"SeasonalStoreBoardSign_1.1.40\":0,\"MOTD_1.1.40\":0,\"MOTD_1.1.42\":2,\"MOTD_1.1.43\":0,\"SeasonalStoreBoardSign_1.1.43\":0,\"MOTD_1.1.45\":10,\"MOTD_1.1.46\":1}",
-        			"MOTD": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskButton_1.1.40": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskButton_1.1.45": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskSign_1.1.40": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskSign_1.1.45": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleLargeSign_1.1.40": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleLargeSign_1.1.45": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.40": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.42": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.45": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.46": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"SeasonalStoreBoardSign_1.1.40": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"SeasonalStoreBoardSign_1.1.45": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleLargeSign": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.14": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.29": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"SeasonalStoreBoardSign_1.1.29": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskButton_1.1.29": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"BundleKioskSign_1.1.29": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.37": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.34": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.27": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
-        			"MOTD_1.1.9": "<color=red>MODDED BY SPACEIFYY LOLLL YOUR GAMES EASY ASFFF !</color>\n<color=cyan>https://discord.gg/zUYyjcvQ7u</color>",
+        			"MOTD": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskButton_1.1.40": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskButton_1.1.45": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskSign_1.1.40": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskSign_1.1.45": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleLargeSign_1.1.40": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleLargeSign_1.1.45": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.40": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.42": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.45": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.46": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"SeasonalStoreBoardSign_1.1.40": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"SeasonalStoreBoardSign_1.1.45": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleLargeSign": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.14": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.29": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"SeasonalStoreBoardSign_1.1.29": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskButton_1.1.29": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"BundleKioskSign_1.1.29": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.37": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.34": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.27": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
+        			"MOTD_1.1.9": "<color=red>MODDED BY TIMMY LOL I OWN U !</color>\n<color=cyan>https://discord.gg/btwYf6ezVr</color>",
         		}
             }
         }), 200
@@ -3895,7 +3895,7 @@ def client_proxy(endpoint):
         body = request.get_json(silent=True) or {}
         
         # Force the exact ID the game wants
-        body["PhotonApplicationId"] = "c731ece0-f230-45a4-a756-3f4d30f12ff6"
+        body["PhotonApplicationId"] = "49c751bf-47c3-4445-9a14-57a5c3944cf7"
         
         # Forward to PlayFab WITHOUT any mocking
         resp = requests.post(
